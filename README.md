@@ -1,1 +1,1 @@
-# partnet_projekt
+# partner_projekt
